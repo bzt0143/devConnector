@@ -2,7 +2,9 @@
 
 > Social network for developers
 
-This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
+This is a MERN stack application from the "MERN Stack Front To Back" course I learned on Udemy. It is a small social network app that includes authentication, profiles and forum posts.
+
+This project took me around 2 month to complete development.
 
 # Updates since course published
 
@@ -385,19 +387,3 @@ git merge main
 
 Once merged you can push to heroku as above and your site will rebuild and be updated.
 
----
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-2.0.0
-
-### License
-
-This project is licensed under the MIT License
